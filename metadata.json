@@ -1,0 +1,5 @@
+{
+  "name": "แบบรายงานผลการเรียน",
+  "description": "Application for checking student exam results and grades, featuring AI-powered performance analysis and study planning advice.",
+  "requestFramePermissions": []
+}
