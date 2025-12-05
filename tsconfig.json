@@ -25,5 +25,12 @@
     },
     "allowImportingTsExtensions": true,
     "noEmit": true
-  }
+  },
+  
+  // 🛑 เพิ่มส่วนนี้: บอก TypeScript ให้อ่านไฟล์ type declaration
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.d.ts" // รวมไฟล์ type declaration ทั่วไป
+  ]
 }
